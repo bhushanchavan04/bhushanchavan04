@@ -25,26 +25,52 @@ I enjoy building scalable web applications, exploring AI technologies, and solvi
 
 <h3>🚀 My interests include:</h3>  
 
-• Full Stack Development  
-• AI Engineering  
-• Generative AI  
-• Automation Systems  
-• Backend Architecture  
-
-💡 I believe in **learning by building and creating impactful software products.**
-
-
-
+- Full Stack Development  
+- AI Engineering  
+- Generative AI  
+- Automation Systems  
+ 
 
 <h3>🎯 Current Focus</h3>  
 
 - Building **AI-powered tools and automation systems**
 - Learning **Generative AI and AI agents**
-- Improving **backend architecture and scalable system design**
-- Contributing to **open source projects**
 
 #
+<h3>💼 Experience</h3>
 
+<b>Web Developer Intern — Codify Software Solutions Pvt. Ltd.</b>  
+📍 Pune, Maharashtra | 🗓 Jan 2026 – Present
+
+• Developed and deployed a responsive **Government Medical College platform** with cross-browser compatibility.  
+• Improved **user engagement by 30%** and reduced **page load time by 35%** through frontend optimization and modular coding.
+#
+
+<h3>🚀 Projects</h3>
+
+<b>QuickStudy AI — AI-Powered Question Paper Analyzer</b>  
+Tech: Google Gemini LLM, React.js, Node.js, OCR  
+
+• Built an **LLM-based system** to extract and summarize **1000+ exam questions** with **90%+ OCR accuracy**.  
+• Reduced manual analysis time by **60%** using automated categorization with GenAI APIs.
+
+<br>
+
+<b>AI-Powered Interview Preparation SaaS</b>  
+Tech: MERN Stack, OpenRouter API, JWT, Razorpay, Firebase Auth  
+
+• Developed a **full-stack AI SaaS platform** for resume analysis, interview question generation, and structured feedback.  
+• Implemented **secure authentication, credit-based monetization**, and deployed a production-ready application.
+
+<br>
+
+<b>AI-Based Face Recognition System</b>  
+Tech: Python, Flask, OpenCV, NumPy  
+
+• Built a **real-time face recognition system** with **78% model accuracy** using computer vision techniques.  
+• Developed a **Flask API** for image processing and identity verification.
+
+#
 <h3>🛠 Tech Stack</h3>
 
 Languages
@@ -104,6 +130,9 @@ https://bhushandevportfolio.netlify.app
 
 LinkedIn  
 https://www.linkedin.com/in/bhushan-chavan-65421625a
+
+Email  
+bhushanchavan131@gmail.com
 
 #
 
